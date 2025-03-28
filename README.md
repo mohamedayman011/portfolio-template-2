@@ -4,7 +4,7 @@
 
 **Portfolio Template 2** is a user-friendly portfolio showcase featuring smooth animations and a fully responsive design for all screen sizes. This project was developed as a practice exercise in **Front-End Development**.
 
-![portfolio image](image/portoflio-image.webp)
+![portfolio image](./images/portoflio-image.webp)
 
 ## Technologies Used
 
